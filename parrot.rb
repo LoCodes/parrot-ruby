@@ -3,5 +3,4 @@
 
 def parrot(phrase = "Squawk!")
   return phase
-  "Squawk!"
 end
